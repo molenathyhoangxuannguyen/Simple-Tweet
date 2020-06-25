@@ -15,7 +15,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/ovezovs/Simple-Tweet/blob/master/TweetterDemoFinal.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ovezovs/Simple-Tweet/blob/master/TweetterDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
